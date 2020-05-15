@@ -11,10 +11,18 @@ span{
   background-color: #f40552;
   text-align: center;
 }
-
+p{
+  font-size: 20px;
+}
 .container-fluid
 {
   padding:3% 10% ;
+}
+.nav-link{
+  font-size: 25px;
+}
+.nav-brand{
+  font-size: 70px;
 }
 /* p1 */
 
@@ -37,7 +45,7 @@ span{
   padding-top:50px;
 }
 .slogan{
-  font-size: 72px;
+  font-size: 100px;
   color: #fff;
   font-family: 'Pacifico', cursive;
   width: 70%;
@@ -47,7 +55,7 @@ span{
   border-radius: 50%;
 }
 .address-info{
-  font-size: 24px;
+  font-size: 36px;
   font-family: 'Montserrat Alternates', sans-serif;
 }
 /* p2 */
