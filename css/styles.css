@@ -1,0 +1,72 @@
+span{
+  text-decoration: underline;
+}
+#p1{
+  background-color: #f40552;
+}
+#p2{
+  background-color: #c3edea;
+}
+#p3{
+  background-color: #f40552;
+  text-align: center;
+}
+
+.container-fluid
+{
+  padding:3% 10% ;
+}
+/* p1 */
+
+.navbar
+{
+  padding-left: 0;
+  padding-right: 0;
+}
+.big-brand{
+  font-size: 48px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 900;
+  margin-right: 170px;
+  color:#fff;
+}
+.nav-link{
+  font-size: 20px;
+}
+.below-brand{
+  padding-top:50px;
+}
+.slogan{
+  font-size: 72px;
+  color: #fff;
+  font-family: 'Pacifico', cursive;
+  width: 70%;
+  margin-bottom: 100px;
+}
+.p1-img{
+  border-radius: 50%;
+}
+.address-info{
+  font-size: 24px;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+/* p2 */
+.row{
+  padding-top: 30px;
+  padding-bottom:30px;
+}
+.change-pages
+{
+  position: relative;
+  left: 700px;
+  top :20px;
+}
+/* p3 */
+.p3-text
+{
+  color:#fffdf9;
+  margin: 10px;
+}
+.mxh-icon{
+  margin: 20px;
+}
